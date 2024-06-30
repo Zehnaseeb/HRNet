@@ -1,4 +1,4 @@
-## Multi-person Human Pose Estimation with HRNet in PyTorch
+## Human Pose Estimation with HRNet in PyTorch
 
 This is an unofficial implementation of the paper
  [*Deep High-Resolution Representation Learning for Human Pose Estimation*](https://arxiv.org/abs/1902.09212).  
